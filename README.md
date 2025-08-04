@@ -9,3 +9,4 @@ The goal is to distinguish between two Persian words: (Yes) and (No) through fea
 - DTW-based alignment between test inputs and reference patterns
 - Distance calculations using both Euclidean and Itakura metrics
 - Final classification based on minimum distance
+The content of this exercise is provided in the **README.PDF** file. Please read it carefully.
